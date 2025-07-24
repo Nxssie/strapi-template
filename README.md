@@ -20,8 +20,8 @@ A production-ready Docker setup for Strapi CMS with PostgreSQL database. This re
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone git@github.com:Nxssie/strapi-template.git
+   cd strapi-template
    ```
 
 2. **Run the initialization script**
