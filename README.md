@@ -2,7 +2,7 @@ A production-ready Docker setup for Strapi CMS with PostgreSQL database. This re
 
 ## 🚀 Features
 
-- **Strapi v4** with Node.js 22 Alpine
+- **Strapi v5** with Node.js 22 Alpine
 - **PostgreSQL 16** database
 - Automated setup with secure random credentials
 - Volume persistence for uploads and database
